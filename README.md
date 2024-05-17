@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo20057
 Fork on GitHub6062
-<h1 align="center">Hi 👋, I'm Abhisek bag</h1>
+<h1 align="center">Hi 👋, I'm Abhisek Bag</h1>
 <h3 align="center">A Physicist, exploring Data Science & Quantum Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekbag&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekbag" /> </p>
